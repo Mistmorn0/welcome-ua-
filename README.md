@@ -5,17 +5,17 @@
     <a href="https://twitter.com/AleoHQ"><img src="https://img.shields.io/twitter/follow/AleoHQ?style=social"/></a>
 </p>
 
-## Welcome to Aleo.
+## Ласкаво просимо до Aleo.
 
-This repository serves as a guide for getting started with building on Aleo. Here is a quick summary of the key components:
+Цей репозиторій слугує посібником для початку роботи з розробкою на Aleo. Ось короткий підсумок ключових компонентів:
 
-- [Aleo Explorer](https://aleo.network) - Validate and broadcast on Aleo Testnet III
-- [Aleo Developer Docs](https://developer.aleo.org) - Developer documentation for Aleo and the Leo programming language.
-- [Leo Playground](http://play.leo-lang.org) - A browser interface to the Leo compiler for rapid ZK development and testing.
+- [Aleo Explorer](https://aleo.network) - Валідація і трансляція на Aleo Testnet III
+- [Aleo Developer Docs](https://developer.aleo.org) - документація для розробників Aleo та мови програмування Leo.
+- [Leo Playground](http://play.leo-lang.org) - інтерфейс браузера для компілятора Leo для швидкої розробки та тестування ZK.
 
-For help setting up, join us on [Discord](https://aleo.org/discord) to ask questions and help others answer their questions.
+Для допомоги у налаштуванні приєднуйтесь до нас у [Discord](https://aleo.org/discord) щоб задавати питання та допомагати іншим відповідати на їхні питання.
 
-We will be updating this page with FAQs to make it easy for finding common issues and to fix them quickly.
+Ми будемо оновлювати цю сторінку з FAQ, щоб спростити пошук поширених проблем та їх швидке усунення.
 
 <!-- 
 ## Aleo Testnet I
